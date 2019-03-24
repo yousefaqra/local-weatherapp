@@ -1,6 +1,7 @@
 {
-  "name": "local-weatherapp",
-  "version": "0.0.0",
+  "name": "localcast-weather",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
