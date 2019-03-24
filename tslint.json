@@ -71,5 +71,20 @@
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
     "directive-class-suffix": true
-  }
+  },
+  "quotemark": [
+    true,
+    "single"
+  ],
+
+"semicolon": [
+    true,
+    "never"
+  ],
+
+"max-line-length": [
+    true,
+    120
+  ]
+
 }
