@@ -9,9 +9,7 @@ import { WeatherService } from '../weather/weather.service'
 })
 export class CurrentWeatherComponent implements OnInit {
   current: ICurrentWeather
-  constructor(private weatherServeice: WeatherService) {
-  
-  }
+  constructor(private weatherServeice: WeatherService) {}
 
   ngOnInit() {
     this.weatherServeice
